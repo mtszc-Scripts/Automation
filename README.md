@@ -1,2 +1,2 @@
 # Automation
-Scripts for stuff automation
+Misc scripts
